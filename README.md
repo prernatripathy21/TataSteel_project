@@ -1,1 +1,1 @@
-Industrial Safety Monitoring system with the help of arduino
+IoT based Industrial Safety Monitoring system 
